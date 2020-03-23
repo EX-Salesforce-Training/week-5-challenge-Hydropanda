@@ -1,0 +1,20 @@
+body {
+    background-color: orange;
+}
+
+h1 {
+    color: black;
+}
+
+p {
+    color: black;
+}
+
+#Batman {
+    color: gold;
+}
+
+#real-content {
+    display: flex;
+    align-content: flex-end;
+}
